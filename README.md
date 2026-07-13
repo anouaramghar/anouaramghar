@@ -46,7 +46,5 @@ Production website for a real Moroccan business (plaster, painting & decoration 
 
 ---
 
-## 📊 GitHub stats
 
-![Anouar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anouaramghar&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anouaramghar&layout=compact&hide_border=true)
+
